@@ -40,7 +40,7 @@ function App() {
     <WireframeProvider>
       <AppContainer>
         <Header>
-          <h1>Wireframe 3D Reconstruction</h1>
+          <h1>Banana 3D - Gemini 3D Model Builer</h1>
         </Header>
         <ControlPanel />
         <ThreeViewer />
