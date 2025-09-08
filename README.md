@@ -8,10 +8,10 @@ These can then be downloaded as .obj files for printing or adding to games / CAD
 https://banana3d-353b5.web.app/
 
 ## To do
-- **Gemini API*** have a gemini button that takes normal photos and converts to wireframe image using an editable prompt "Produce a line drawing of a transparent 3D hologram of the main object in view. please remove all background so the final image is just a holigram floating on a black background. " 
+- **Gemini API** have a gemini button that takes normal photos and converts to wireframe image using an editable prompt "Produce a line drawing of a transparent 3D hologram of the main object in view. please remove all background so the final image is just a hologram floating on a black background. " 
 
 - **Finish Physics** Change model used to convert discovered lines into a 3D object. assume 45,90 and 135 degree angles rather than orthogonal and encoporate these angles into 3D model.
-Rather than only include matches paths, assume unmatched paths are on z axis and matched paths are on x and y axis and unmatched are on x and z of x and y.
+Rather than only include matched paths, assume matched paths are on x and y axis and unmatched are on x and z or x and y.
 
 ## Features
 
