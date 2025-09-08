@@ -4,6 +4,10 @@ A React application that uses Googles Nano Banana image model to create wirefram
 These are then turned into interactive 3D line models using computer vision and Three.js.
 These can then be downloaded as .obj files for printing or adding to games / CAD.
 
+
+https://banana3d-353b5.web.app/
+
+
 ## Features
 
 - **Image Upload**: Support for multiple views (Front/Perspective, Side, Rear/Back)
