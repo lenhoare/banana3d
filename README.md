@@ -13,6 +13,8 @@ https://banana3d-353b5.web.app/
 - **Finish Physics** Change model used to convert discovered lines into a 3D object. assume 45,90 and 135 degree angles rather than orthogonal and encoporate these angles into 3D model.
 Rather than only include matched paths, assume matched paths are on x and y axis and unmatched are on x and z or x and y.
 
+- **Remove green cube** This was just put in for testing and debugging purposes. Take out when happy with physics. 
+
 ## Features
 
 - **Image Upload**: Support for multiple views (Front/Perspective, Side, Rear/Back)
